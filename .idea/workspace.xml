@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="25699d64-62cc-42ba-9b84-aa9936cc046e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aMO3C0nSBJ5FPjKNJKPJCzQ4Gf" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.herokuapp.Tests" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\maria.parmakli\IdeaProjects\Homework\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.Frames">
+    <configuration name="Frames" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Homework" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.herokuapp.Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="com.herokuapp.Tests" />
+      <option name="MAIN_CLASS_NAME" value="com.herokuapp.Tests.Frames" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="wholeProject" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HwTestAlerts" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Homework" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.herokuapp.Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="com.herokuapp.Tests" />
+      <option name="MAIN_CLASS_NAME" value="com.herokuapp.Tests.HwTestAlerts" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="wholeProject" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="PACKAGE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="wholeProject" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.herokuapp.Tests" type="TestNG" temporary="true" nameIsGenerated="true">
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.herokuapp.Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="com.herokuapp.Tests" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="PACKAGE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="C:\Users\maria.parmakli\IdeaProjects\Homework\src\main\resources" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="wholeProject" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.herokuapp.Tests" type="TestNG" temporary="true" nameIsGenerated="true">
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.herokuapp.Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="com.herokuapp.Tests" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="PACKAGE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="wholeProject" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.Frames" />
+        <item itemvalue="TestNG.HwTestAlerts" />
+        <item itemvalue="TestNG.com.herokuapp.Tests" />
+        <item itemvalue="TestNG.com.herokuapp.Tests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="25699d64-62cc-42ba-9b84-aa9936cc046e" name="Default Changelist" comment="" />
+      <created>1586541794869</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586541794869</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="36" y="53" width="1092" height="734" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586716047993">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="36" y="53" width="1092" height="734" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.860@0.0.1600.860" timestamp="1586716047993" />
+    <state x="605" y="146" key="#com.intellij.ide.util.MemberChooser" timestamp="1586728392857">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="605" y="146" key="#com.intellij.ide.util.MemberChooser/0.0.1600.860@0.0.1600.860" timestamp="1586728392857" />
+    <state x="430" y="249" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1586542429748">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="430" y="249" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1600.860@0.0.1600.860" timestamp="1586542429748" />
+    <state x="529" y="299" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1586717623578">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="529" y="299" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1600.860@0.0.1600.860" timestamp="1586717623578" />
+    <state x="580" y="185" key="FileChooserDialogImpl" timestamp="1586716003487">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="580" y="185" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1586716003487" />
+    <state x="622" y="329" key="Github.CreateGistDialog" timestamp="1586710768396">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="622" y="329" key="Github.CreateGistDialog/0.0.1600.860@0.0.1600.860" timestamp="1586710768396" />
+    <state width="1557" height="222" key="GridCell.Tab.0.bottom" timestamp="1586733588779">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="222" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1586733588779" />
+    <state width="1557" height="222" key="GridCell.Tab.0.center" timestamp="1586733588778">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="222" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1586733588778" />
+    <state width="1557" height="222" key="GridCell.Tab.0.left" timestamp="1586733588778">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="222" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1586733588778" />
+    <state width="1557" height="222" key="GridCell.Tab.0.right" timestamp="1586733588778">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="222" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1586733588778" />
+    <state width="1557" height="276" key="GridCell.Tab.1.bottom" timestamp="1586712463313">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.1.bottom/0.0.1600.860@0.0.1600.860" timestamp="1586712463313" />
+    <state width="1557" height="276" key="GridCell.Tab.1.center" timestamp="1586712463313">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.1.center/0.0.1600.860@0.0.1600.860" timestamp="1586712463313" />
+    <state width="1557" height="276" key="GridCell.Tab.1.left" timestamp="1586712463313">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.1.left/0.0.1600.860@0.0.1600.860" timestamp="1586712463313" />
+    <state width="1557" height="276" key="GridCell.Tab.1.right" timestamp="1586712463313">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" timestamp="1586712463313" />
+    <state x="230" y="157" key="Maven.ArtifactSearchDialog" timestamp="1586713711057">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="230" y="157" key="Maven.ArtifactSearchDialog/0.0.1600.860@0.0.1600.860" timestamp="1586713711057" />
+    <state x="280" y="4" key="SettingsEditor" timestamp="1586723512713">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="280" y="4" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1586723512713" />
+    <state x="496" y="254" key="com.intellij.ide.util.TipDialog" timestamp="1586723545813">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="496" y="254" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1586723545813" />
+    <state x="496" y="28" width="607" height="804" key="find.popup" timestamp="1586717967257">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="496" y="28" width="607" height="804" key="find.popup/0.0.1600.860@0.0.1600.860" timestamp="1586717967257" />
+    <state x="182" y="125" key="new project wizard" timestamp="1586723401133">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="182" y="125" key="new project wizard/0.0.1600.860@0.0.1600.860" timestamp="1586723401133" />
+    <state x="542" y="49" key="refactoring.ChangeSignatureDialog" timestamp="1586731888427">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="542" y="49" key="refactoring.ChangeSignatureDialog/0.0.1600.860@0.0.1600.860" timestamp="1586731888427" />
+    <state x="456" y="195" key="run.anything.popup" timestamp="1586712004511">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="456" y="195" key="run.anything.popup/0.0.1600.860@0.0.1600.860" timestamp="1586712004511" />
+    <state x="920" y="181" key="search.everywhere.popup" timestamp="1586545292984">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="920" y="181" key="search.everywhere.popup/0.0.1600.860@0.0.1600.860" timestamp="1586545292984" />
+  </component>
+</project>
