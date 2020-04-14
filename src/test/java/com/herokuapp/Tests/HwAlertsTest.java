@@ -10,7 +10,7 @@ import org.testng.Assert;
 import org.testng.annotations.Test;
 
 @Log4j2
-public class HwTestAlerts extends BaseTest {
+public class HwAlertsTest extends BaseTest {
 
 
     HwTestJsAlertsPage hwTestAlertsPage;

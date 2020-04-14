@@ -6,7 +6,7 @@ import org.testng.Assert;
 import org.testng.annotations.Test;
 
 @Log4j2
-public class Frames extends BaseTest {
+public class FramesTest extends BaseTest {
     FramesPage framesPage;
 
     @Test

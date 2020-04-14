@@ -12,7 +12,7 @@ public class BaseTest {
 
     protected WebDriver driver;
 
-    @BeforeSuite
+    @BeforeClass
     public void setUpDriver() {
         WebDriverManager.chromedriver().setup();
         this.driver = new ChromeDriver();
