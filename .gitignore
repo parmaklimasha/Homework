@@ -1,7 +1,7 @@
 .idea/
-/target/
-/build/
-/logs/
+/target
+/build
+/logs
 /data
 /config
 /node_modules
